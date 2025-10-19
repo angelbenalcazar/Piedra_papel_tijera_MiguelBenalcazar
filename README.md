@@ -2,9 +2,7 @@
 
 Juego: Piedra, papel, tijera
 
-Lenguaje de programación: Python 3
-
-Realizado en Visual Studio Code
+Lenguaje de programación: Python 3 Realizado en Visual Studio Code
 
 Diagrama de flujo: Raptor
 Autor: Miguel Ángel Benalcázar
@@ -60,6 +58,7 @@ Después se realizó el algoritmo en texto para armar las necesidades y solucion
 Después el proyecto se desarrollo a través del diagrama de flujo Raptor, ahí se armó la funcionalidad principal de cómo debía funcionar el código.
 
 Por último ese diagrama sirvió para armar las funcionalidades del juego a través del código. El código se lo hizo completamente en VS Code.
+
 
 
 
