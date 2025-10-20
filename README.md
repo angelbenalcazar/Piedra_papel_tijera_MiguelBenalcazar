@@ -18,6 +18,10 @@ Bienvenida:
 
 Sean bienvenidos al repositorio del código usado dentro del juego Piedra, papel o tijera. En este repositorio está el código fuente que fue realizado en lenguaje de Python versión 3.13.7. Dentro del repositorio hay indicaciones sobre ciertos códigos para mejor comprensión del mismo.
 
+Objetivo del programa:
+
+El programa intenta simular el juego físico Piedra, papel, tijera, que se jugaba en la niñez. En este caso, el juego será en forma digital, donde el usuario competirá contra la computadora o contra otro jugador. Las funcionalidades serán dadas por el programa mientras este avanza, y la usabilidad será a través del teclado y la digitación.
+
 Características:
 
 Al usar el código y ejecutarse, el sistema guiará al usuario a través de todo el juego, desde que inicia hasta que finaliza.
@@ -65,6 +69,7 @@ Después se realizó el algoritmo en texto para armar las necesidades y solucion
 Después el proyecto se desarrollo a través del diagrama de flujo Raptor, ahí se armó la funcionalidad principal de cómo debía funcionar el código.
 
 Por último ese diagrama sirvió para armar las funcionalidades del juego a través del código. El código se lo hizo completamente en VS Code.
+
 
 
 
