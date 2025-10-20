@@ -1,4 +1,6 @@
 ﻿# Piedra_papel_tijera_MiguelBenalcazar
+ 
+Fecha: 19/10/25
 
 Juego: Piedra, papel, tijera
 
@@ -30,7 +32,7 @@ Para ejecutarlo se necesita una terminal de comandos con intérprete python. Se 
 
 Disponible para Windows y Mac.
 
-Instrucciones y proceso de juego:
+Funcionalidades, instrucciones y proceso de juego:
 
 Ejecutarlo en la terminal.
 
@@ -63,6 +65,7 @@ Después se realizó el algoritmo en texto para armar las necesidades y solucion
 Después el proyecto se desarrollo a través del diagrama de flujo Raptor, ahí se armó la funcionalidad principal de cómo debía funcionar el código.
 
 Por último ese diagrama sirvió para armar las funcionalidades del juego a través del código. El código se lo hizo completamente en VS Code.
+
 
 
 
